@@ -1,5 +1,5 @@
-const RAW_CONFIG = 'https://raw.githubusercontent.com/KeWangFX/director-review/main/current.json';
-const API_CONFIG = 'https://api.github.com/repos/KeWangFX/director-review/contents/current.json?ref=main';
+const RAW_CONFIG = 'https://raw.githubusercontent.com/KeWangFX/director-review/entry-state/current.json';
+const API_CONFIG = 'https://api.github.com/repos/KeWangFX/director-review/contents/current.json?ref=entry-state';
 const CONFIG_LIMIT = 16 * 1024;
 let apiFallbackAttempted = false;
 

@@ -1,6 +1,6 @@
 # 导演审核台固定分享入口
 
-这是无构建、无第三方脚本的静态分享入口。`current.json` 仅记录已核验的公开审核台地址，不含凭据或项目素材。
+这是无构建、无第三方脚本的静态分享入口。`entry-state` 分支的 `current.json` 仅记录已核验的公开审核台地址，不含凭据或项目素材。`main` 只发布页面代码，状态更新不触发 Pages 重建。
 
 发布仓库：`KeWangFX/director-review`，分支 `main`，Pages 使用根目录。
 
@@ -30,7 +30,7 @@ URL 严格禁止用户名、密码、非默认端口、查询参数、片段、�
 
 ## 获取与失败策略
 
-1. 使用 `cache: no-store` 与时间／随机 cache-bust 获取 `https://raw.githubusercontent.com/KeWangFX/director-review/main/current.json`。
+1. 使用 `cache: no-store` 与时间／随机 cache-bust 获取 `https://raw.githubusercontent.com/KeWangFX/director-review/entry-state/current.json`。
 2. 仅网络、HTTP 或 JSON 读取失败时，最多在当前页面生命周期内调用一次 GitHub Contents API 备用路径。
 3. 已读取的 `NOT_READY`／无效配置不尝试寻找旧 READY 记录；直接停止跳转。
 4. raw 配置最大 16 KiB；API 响应最大 64 KiB，解码后配置仍最大 16 KiB；单次请求超时 10 秒。
