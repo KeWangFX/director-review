@@ -1,6 +1,6 @@
 # 导演审核台固定分享入口
 
-这是无构建、无第三方脚本的静态分享入口。`entry-state` 分支的 `current.json` 仅记录已核验的公开审核台地址，不含凭据或项目素材。`main` 只发布页面代码，状态更新不触发 Pages 重建。
+这是无构建、无第三方脚本的静态分享入口。`entry-state` 分支的 `current.json` 仅记录已核验的公开审核台地址，不含凭据或项目素材。`main` 发布页面代码，实时状态更新不触发 Pages 重建。`main/current.json` 仅供首次上线时浏览器旧缓存兼容；新版页面只读 `entry-state`，该兼容副本不参与实时入口仲裁。
 
 发布仓库：`KeWangFX/director-review`，分支 `main`，Pages 使用根目录。
 
