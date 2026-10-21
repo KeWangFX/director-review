@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "READY",
+  "status": "OFFLINE",
   "service": "fireworks-team-gateway",
-  "url": "https://drunk-pulling-science-vault.trycloudflare.com/team/projects",
-  "publishedAt": "2026-10-20T08:58:40.133Z",
+  "url": null,
+  "publishedAt": "2026-10-21T04:35:02.443Z",
   "temporaryTransport": true
 }
