@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-10-23T20:22:01.431Z",
+  "url": "https://missing-moments-when-somewhere.trycloudflare.com/team/projects",
+  "publishedAt": "2026-10-23T20:22:58.141Z",
   "temporaryTransport": true
 }
