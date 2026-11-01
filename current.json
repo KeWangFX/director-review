@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "READY",
+  "status": "OFFLINE",
   "service": "fireworks-team-gateway",
-  "url": "https://ash-symbols-monsters-nominated.trycloudflare.com/team/projects",
-  "publishedAt": "2026-11-01T04:41:12.248Z",
+  "url": null,
+  "publishedAt": "2026-11-01T11:13:56.178Z",
   "temporaryTransport": true
 }
