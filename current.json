@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "READY",
+  "status": "OFFLINE",
   "service": "fireworks-team-gateway",
-  "url": "https://reynolds-represent-merely-categories.trycloudflare.com/team/projects",
-  "publishedAt": "2026-11-09T00:09:02.866Z",
+  "url": null,
+  "publishedAt": "2026-11-09T03:34:50.516Z",
   "temporaryTransport": true
 }
