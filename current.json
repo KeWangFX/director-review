@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-10T01:51:18.148Z",
+  "url": "https://terminology-correction-wing-applicable.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-10T01:53:11.497Z",
   "temporaryTransport": true
 }
