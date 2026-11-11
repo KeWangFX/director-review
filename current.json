@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-11T03:00:39.511Z",
+  "url": "https://mechanics-aerial-among-brussels.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-11T03:02:29.685Z",
   "temporaryTransport": true
 }
