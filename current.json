@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "READY",
+  "status": "OFFLINE",
   "service": "fireworks-team-gateway",
-  "url": "https://pdas-carpet-stack-passing.trycloudflare.com/team/projects",
-  "publishedAt": "2026-11-10T09:16:47.703Z",
+  "url": null,
+  "publishedAt": "2026-11-11T01:02:38.225Z",
   "temporaryTransport": true
 }
