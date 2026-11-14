@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-14T14:28:01.827Z",
+  "url": "https://feature-spaces-introducing-dom.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-14T14:29:36.659Z",
   "temporaryTransport": true
 }
