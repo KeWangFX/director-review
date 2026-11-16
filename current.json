@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "READY",
+  "status": "OFFLINE",
   "service": "fireworks-team-gateway",
-  "url": "https://lip-high-post-fixtures.trycloudflare.com/team/projects",
-  "publishedAt": "2026-11-16T06:07:50.769Z",
+  "url": null,
+  "publishedAt": "2026-11-16T09:14:18.427Z",
   "temporaryTransport": true
 }
