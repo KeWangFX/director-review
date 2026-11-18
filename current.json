@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-18T15:23:34.786Z",
+  "url": "https://determination-anna-mothers-lottery.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-18T15:25:07.628Z",
   "temporaryTransport": true
 }
