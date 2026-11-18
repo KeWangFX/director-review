@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-18T22:08:15.884Z",
+  "url": "https://scenes-presently-champagne-lid.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-18T22:09:46.952Z",
   "temporaryTransport": true
 }
