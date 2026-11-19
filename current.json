@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-19T02:25:04.961Z",
+  "url": "https://categories-spin-addressing-connections.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-19T02:26:50.180Z",
   "temporaryTransport": true
 }
