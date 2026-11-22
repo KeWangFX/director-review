@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-22T05:20:40.769Z",
+  "url": "https://designated-stakeholders-deal-releases.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-22T05:23:15.222Z",
   "temporaryTransport": true
 }
