@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-26T08:06:55.793Z",
+  "url": "https://backing-templates-encouraging-sign.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-26T08:08:14.384Z",
   "temporaryTransport": true
 }
