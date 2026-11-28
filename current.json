@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "OFFLINE",
+  "status": "READY",
   "service": "fireworks-team-gateway",
-  "url": null,
-  "publishedAt": "2026-11-28T02:21:07.114Z",
+  "url": "https://programmes-acknowledge-one-paintball.trycloudflare.com/team/projects",
+  "publishedAt": "2026-11-28T02:23:01.734Z",
   "temporaryTransport": true
 }
